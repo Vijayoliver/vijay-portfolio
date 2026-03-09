@@ -8,6 +8,7 @@ The purpose of this website is to showcase my skills, projects, creative UI desi
 The site focuses on modern UI/UX design, responsiveness, and performance, providing visitors with an engaging and visually attractive experience.
 
 ✨ Features:
+
 🌗 Light Mode & Dark Mode Toggle
 ⚡ Fast and Lightweight Static Website
 📱 Fully Responsive Design
@@ -20,13 +21,16 @@ The site focuses on modern UI/UX design, responsiveness, and performance, provid
 🛠️ Technologies Used
 
 Frontend:
+
 HTML5
 Tailwind CSS
 JavaScript
 
 Integrations:
+
 EmailJS – For sending enquiry form messages directly to email
 WhatsApp API – For instant contact via WhatsApp
 
 Hosting:
+
 GitHub Pages
