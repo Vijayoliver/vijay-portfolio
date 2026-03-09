@@ -21,16 +21,18 @@ The site focuses on modern UI/UX design, responsiveness, and performance, provid
 🛠️ Technologies Used
 
 Frontend:
-
 HTML5
 Tailwind CSS
 JavaScript
 
 Integrations:
-
 EmailJS – For sending enquiry form messages directly to email
 WhatsApp API – For instant contact via WhatsApp
 
 Hosting:
-
 GitHub Pages
+
+<img width="957" height="1031" alt="image" src="https://github.com/user-attachments/assets/0d9bea46-d84a-451f-bbf0-9cbc39b750f9" />
+
+
+🌐 Live Website: https://vijayoliver.github.io/vijay-portfolio/
