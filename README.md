@@ -34,7 +34,8 @@ GitHub Pages
 
 <img width="250" height="269" alt="image" src="https://github.com/user-attachments/assets/0d9bea46-d84a-451f-bbf0-9cbc39b750f9" />
 <img width="250" height="269" alt="image" src="https://github.com/user-attachments/assets/62c1360b-5907-4d5e-afc4-bd772c97d625" />
-
+<img width="250" height="269" alt="image" src="https://github.com/user-attachments/assets/563d3371-60db-45f1-b5b3-b6b7060ce771" />
+<img width="250" height="269" alt="image" src="https://github.com/user-attachments/assets/2ef1bd77-2c5b-4ee6-828c-cbc82aab8b8e" />
 
 
 🌐 Live Website: https://vijayoliver.github.io/vijay-portfolio/
